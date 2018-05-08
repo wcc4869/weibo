@@ -73,7 +73,8 @@ var_dump($ret);
 + 1.在open.weibo.com创建应用，得到API KEY
 + 2.下载,然后解压,修改config.php中的WB_AKEY为App Key，WB_SKEY为App Secret。
 + 3.上传到PHP空间即可
-
+##我个人的修改
+以上的都是引用别人写好的，我在callback.php中获取了token和用户的信息，接下来打算接入微博的直播创建活动。
 
 Bug tracker
 -----------
